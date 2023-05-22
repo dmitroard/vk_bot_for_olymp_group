@@ -1,4 +1,3 @@
-﻿from tkinter import Menu
 import vk_api 
 import olymp
 import json
